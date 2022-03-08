@@ -24,6 +24,7 @@ class App extends Component {
             <header className="App-header">
             <img src={logo} className="App-logo" alt="logo"/>
             <h3 className="App-title">{this.state.message}</h3>
+            <h3 className="App-title">Nadir Kahvedžić</h3>
             </header>
             <p className="App-intro">
             To get started, edit <code>src/App.js</code> and save to reload.
